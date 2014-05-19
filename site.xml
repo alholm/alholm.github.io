@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description url="File:///C:/Users/User/workspace/alholm.github.io">
+      alholm.github.io
+   </description>
+   <feature url="features/org.kholupko.xoredtest.feature_1.0.0.jar" id="org.kholupko.xoredtest.feature" version="1.0.0">
+      <category name="Composite Launch Configuration"/>
+   </feature>
+   <category-def name="Composite Launch Configuration" label="Composite Launch Configuration"/>
+</site>
